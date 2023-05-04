@@ -1,0 +1,9 @@
+:root {
+  color: rgba(255, 255, 255, 0.202);
+}
+.active:active {
+  background: "rgba(255, 255, 255, 0.202)";
+}
+.fadein {
+  transition: ease-in-out 1.2s;
+}
